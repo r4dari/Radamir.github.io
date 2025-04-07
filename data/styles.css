@@ -72,11 +72,15 @@
   color:#000000;
   text-align:left;
 }
+.flow_shape {
+}
 .table_cell {
 }
 .form_hint {
   color:#999999;
 }
 .form_disabled {
+}
+.icon {
 }
 textarea, select, input, button, div, svg { outline: none; }
